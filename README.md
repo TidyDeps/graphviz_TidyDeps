@@ -1,3 +1,7 @@
+This open source project is based on the original Graphviz project and has been modified.  
+For inquiries about the modifications, please contact the administrator of this repository.
+
+
 # Graphviz - Graph Visualization Tools
 
 [![build status](https://gitlab.com/graphviz/graphviz/badges/main/pipeline.svg)](https://gitlab.com/graphviz/graphviz/-/pipelines/)
